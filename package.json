@@ -1,8 +1,10 @@
 {
   "name": "lil-sness-samples",
-  "module": "src/index.ts",
   "type": "module",
   "private": true,
+  "scripts": {
+    "build": "bun src/build.ts"
+  },
   "devDependencies": {
     "@types/bun": "latest"
   },

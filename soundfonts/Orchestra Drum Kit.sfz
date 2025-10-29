@@ -1,0 +1,236 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : Lil'Sness.sf2
+// Author    : Lil'Alien
+// Copyright : Lil'Sness Soundfont © Lil'Alien 2022
+// Date      : 2025/10/28
+// Comment   : Megalovania
+
+<group>
+lochan=10 hichan=10
+amp_veltrack=100
+ampeg_attack=0.000999969
+cutoff=4978
+fil_type=lpf_2p
+fil_veltrack=2400
+loop_mode=no_loop
+
+<region> sample=samples\48_timp.wav
+ampeg_decay=1.38992
+ampeg_sustain=6.30957e-06
+key=35
+loop_end=3999
+loop_mode=loop_continuous
+loop_start=2400
+pitch_keycenter=59
+volume=0
+
+<region> sample=samples\48_timp.wav
+ampeg_decay=1.38992
+ampeg_sustain=6.30957e-06
+key=36
+loop_end=3999
+loop_mode=loop_continuous
+loop_start=2400
+pitch_keycenter=54
+volume=0
+
+<region> sample=samples\37_sidestick.wav
+key=37
+pitch_keycenter=37
+volume=0
+
+<region> sample=samples\3_38_orchsnare.wav
+key=38
+pitch_keycenter=38
+volume=0
+
+<region> sample=samples\3_39_thingy.wav
+key=39
+pitch_keycenter=39
+volume=-4
+
+<region> sample=samples\3_38_orchsnare.wav
+key=40
+pitch_keycenter=40
+tune=25
+volume=0
+
+<region> sample=samples\48_timp.wav
+lokey=53 hikey=41
+ampeg_decay=4.16986
+ampeg_sustain=6.30957e-06
+loop_end=3999
+loop_mode=loop_continuous
+loop_start=2400
+pitch_keycenter=47
+volume=0
+
+<region> sample=samples\54_tamb.wav
+key=54
+pitch_keycenter=54
+volume=0
+
+<region> sample=samples\55_splash.wav
+ampeg_decay=4.16986
+ampeg_sustain=6.30957e-06
+key=55
+loop_end=3199
+loop_mode=loop_continuous
+loop_start=1440
+pitch_keycenter=55
+volume=0
+
+<region> sample=samples\56_cowbell.wav
+key=56
+pitch_keycenter=56
+volume=0
+
+<region> sample=samples\57_crash2.wav
+ampeg_decay=6.94833
+ampeg_sustain=6.30957e-06
+key=57
+loop_end=3999
+loop_mode=loop_continuous
+loop_start=2080
+pitch_keycenter=57
+volume=0
+
+<region> sample=samples\fixed_d58_vibraslap.wav
+ampeg_decay=2.77984
+ampeg_sustain=6.30957e-06
+key=58
+loop_end=2079
+loop_mode=loop_continuous
+loop_start=800
+pitch_keycenter=58
+volume=0
+
+<region> sample=samples\57_crash2.wav
+ampeg_decay=6.94833
+ampeg_sustain=6.30957e-06
+key=59
+loop_end=3999
+loop_mode=loop_continuous
+loop_start=2080
+pitch_keycenter=59
+tune=25
+volume=0
+
+<group>
+lochan=10 hichan=10
+amp_veltrack=100
+ampeg_attack=0.000999969
+cutoff=4978
+fil_type=lpf_2p
+fil_veltrack=2400
+loop_mode=no_loop
+
+<region> sample=samples\60_bongo1.wav
+key=60
+pitch_keycenter=60
+
+<region> sample=samples\61_bongo2.wav
+key=61
+pitch_keycenter=61
+
+<region> sample=samples\62_conga1.wav
+key=62
+pitch_keycenter=62
+
+<region> sample=samples\63_64_conga2_3.wav
+key=63
+pitch_keycenter=63
+
+<region> sample=samples\63_64_conga2_3.wav
+key=64
+pitch_keycenter=70
+
+<region> sample=samples\65_66_timbale.wav
+key=65
+pitch_keycenter=59
+
+<region> sample=samples\65_66_timbale.wav
+key=66
+pitch_keycenter=66
+
+<region> sample=samples\114_agogo.wav
+key=67
+pitch_keycenter=61
+
+<region> sample=samples\114_agogo.wav
+key=68
+pitch_keycenter=68
+
+<region> sample=samples\69_cabasa.wav
+key=69
+pitch_keycenter=69
+
+<region> sample=samples\70_maracas.wav
+key=70
+pitch_keycenter=70
+
+<region> sample=samples\fixed_d71_72_whistl.wav
+ampeg_decay=0.00999787
+ampeg_hold=0.100018
+ampeg_sustain=6.30957e-06
+key=71
+loop_end=639
+loop_mode=loop_continuous
+loop_start=320
+pitch_keycenter=65
+
+<region> sample=samples\fixed_d71_72_whistl.wav
+ampeg_decay=0.00999787
+ampeg_hold=0.400073
+ampeg_sustain=6.30957e-06
+key=72
+loop_end=639
+loop_mode=loop_continuous
+loop_start=320
+pitch_keycenter=70
+
+<region> sample=samples\73_guiro1.wav
+key=73
+pitch_keycenter=73
+
+<region> sample=samples\74_guiro2.wav
+key=74
+pitch_keycenter=74
+
+<region> sample=samples\75_claves.wav
+key=75
+pitch_keycenter=75
+
+<region> sample=samples\76_77_woodblock.wav
+key=76
+pitch_keycenter=76
+
+<region> sample=samples\76_77_woodblock.wav
+key=77
+pitch_keycenter=83
+
+<region> sample=samples\78_79_cuica.wav
+key=78
+pitch_keycenter=78
+
+<region> sample=samples\78_79_cuica.wav
+key=79
+pitch_keycenter=85
+
+<region> sample=samples\80_81_triangle.wav
+ampeg_decay=0.130008
+ampeg_sustain=6.30957e-06
+key=80
+loop_end=2399
+loop_mode=loop_continuous
+loop_start=960
+pitch_keycenter=74
+
+<region> sample=samples\80_81_triangle.wav
+ampeg_decay=2.77984
+ampeg_sustain=6.30957e-06
+key=81
+loop_end=2399
+loop_mode=loop_continuous
+loop_start=960
+pitch_keycenter=75

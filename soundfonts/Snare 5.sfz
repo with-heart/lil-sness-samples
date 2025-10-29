@@ -1,0 +1,21 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : Lil'Sness.sf2
+// Author    : Lil'Alien
+// Copyright : Lil'Sness Soundfont © Lil'Alien 2022
+// Date      : 2025/10/28
+// Comment   : Megalovania
+
+<group>
+lochan=10 hichan=10
+amp_veltrack=100
+ampeg_attack=0.000999969
+cutoff=4978
+fil_type=lpf_2p
+fil_veltrack=2400
+loop_mode=no_loop
+
+<region> sample=samples\3_38_orchsnare.wav
+amp_veltrack=100
+pan=0
+pitch_keycenter=60
+volume=0
